@@ -1,0 +1,27 @@
+.Quote{
+    background-image: url(../cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlMjBfYV9jbG9zZV91cF9vZl9hX2NvbG9yZnVsX2ZsdWlkX2Fic3RyYWN0X3BhbGVfd18xYTg4YWI2Ny1jMzdmLTQ2ZTctYjk5OC1hMjI2N2U3YmI4ODBfMi5qcGc.webp);
+    height: 100vh;
+    background-position: center center;
+    background-size: cover;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-weight:900;
+    font-size: 5rem;
+}
+.quoteparagraph{
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+.clickbtn{
+    background-color: #63c9e2;
+    border: #63c9e2;
+}
+.clickbtn:hover{
+    background-color: rosybrown;
+    color: white;
+}
+.randomquote{
+    font-family: 'Hedvig Letters Serif', serif;
+    font-size: 1.5rem;
+}
